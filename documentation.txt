@@ -1,0 +1,31 @@
+
+1. Install python ubuntu
+
+sudo apt-get update
+
+sudo apt-get install python3.6
+
+sudo apt install python3-pip
+
+2. Install Fitz ubuntu:
+
+pip install fitz
+
+3. Install colour using command:
+
+pip install colour
+
+Run the code using command:
+
+cd path_to_directory
+python app.py
+
+enter input file path
+enter output directory path(directory only)
+enter list containg text with color and type
+enter you want to clear background or not
+
+
+It prints All DOne in last
+
+Then check the output path you mentioned. It creates the file on that path
